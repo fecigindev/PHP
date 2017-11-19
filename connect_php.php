@@ -13,3 +13,5 @@ else{
   echo "Connected";
 }
 mysqli_close($con);
+
+?>
